@@ -1,4 +1,4 @@
-# Bud: The Budddy
+# Bud: The Buddy
 
 Hi ! 
 
